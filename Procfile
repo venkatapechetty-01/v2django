@@ -1,1 +1,1 @@
-web: gunicorn v2Tinc.wsgi
+web: gunicorn todo.wsgi
